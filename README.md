@@ -1,6 +1,6 @@
 # Desktop-Lamp
 Runs on a 12V source
-<img width="984" height="602" alt="LED_Lighting" src="https://github.com/user-attachments/assets/f9a044ef-94fc-4255-b1a9-3e9243443b4b" /><br>
+<img width="952" height="592" alt="LED_Lighting" src="https://github.com/user-attachments/assets/1bc4ccbe-8efb-4c6f-b2bf-a8f540d78849" /><br>
 
 
 ## PCB Production
