@@ -22,8 +22,17 @@ R3 | 0402 | 1 | 10kΩ | [Link](google.com/url?q=https://www.digikey.com/en/produ
 R4 | 0402 | 1 | 7.5kΩ| [Link](https://www.digikey.com/en/products/detail/panasonic-industry/ERA-2AEB752X/1706026) | $0.12 |
 U1 | WSON8_DSG_TEX | 1 | TPS923650D2DSGR | [Link](https://www.digikey.com/en/products/detail/texas-instruments/TPS923650D2DSGR/26251194) | $0.71 |
 U2 | SOT-223-3_TabPin2 | 1 | AMS1117 | [Link](https://www.digikey.com/en/products/detail/shenzhen-slkormicro-semicon-co-ltd/AMS1117-ADJ-SOT-89/26802474) | $0.10 |
+ | | | | Total: | $18.37(Not accouting for shipping or Tarrifs, could cost about $7-10 more dollars)|
 
+Off Board Components:<br>
+1.(Power Barrel Connector)[https://www.digikey.com/en/products/detail/tensility/54-00166/10459294],$0.65<br>
+2.(Potentiometer)[https://www.digikey.com/en/products/detail/tt-electronics-bi/P091S-FC20BR10K/2408860],$3.42<br>
+3.(Power Switch)[https://www.digikey.com/en/products/detail/carling-technologies/2FA53-73-TABS/483646],$7.01<br>
+
+ For PCB production, I recommend JLCPCB; it is highly recommended to buy an ALUMINUM PCB for efficient heat spreading. 
 ## 3D Printed Parts Production
+Will add once testing is done!
+
 
 ## Power Input
 <img width="281" height="203" alt="image" src="https://github.com/user-attachments/assets/27400bc2-1484-4492-9160-04feb5dca708" /><br>
@@ -37,4 +46,5 @@ The DIM pad is the input pad for the middle pin of the potentiometer, and the PO
 
 ## Purpose Of Project
 The purpose of designing and building a custom desktop lamp for me is to learn more about power PCBs and controlling LEDs. 
+
 
